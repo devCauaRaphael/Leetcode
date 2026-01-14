@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\bin\Debug\ValidAnagram.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\bin\Debug\ValidAnagram.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\bin\Debug\ValidAnagram.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.exe.config

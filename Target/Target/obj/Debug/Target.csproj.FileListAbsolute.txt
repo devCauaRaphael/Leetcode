@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\bin\Debug\Target.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\bin\Debug\Target.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\bin\Debug\Target.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\obj\Debug\Target.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\obj\Debug\Target.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\obj\Debug\Target.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\obj\Debug\Target.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\Target\Target\obj\Debug\Target.exe.config

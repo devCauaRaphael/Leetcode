@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\bin\Debug\TwoSortedList.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\bin\Debug\TwoSortedList.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\bin\Debug\TwoSortedList.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\obj\Debug\TwoSortedList.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\obj\Debug\TwoSortedList.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\obj\Debug\TwoSortedList.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\obj\Debug\TwoSortedList.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\TwoSortedList\TwoSortedList\obj\Debug\TwoSortedList.exe.config

@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.exe.config

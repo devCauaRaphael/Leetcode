@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\obj\Debug\ComparandoLetras.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\obj\Debug\ComparandoLetras.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\bin\Debug\ComparandoLetras.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\bin\Debug\ComparandoLetras.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\bin\Debug\ComparandoLetras.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\obj\Debug\ComparandoLetras.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\obj\Debug\ComparandoLetras.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\ComparandoLetras\ComparandoLetras\obj\Debug\ComparandoLetras.exe.config
