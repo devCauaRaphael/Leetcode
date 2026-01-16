@@ -1,0 +1,8 @@
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\bin\Debug\BuyAndSell.exe.config
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\bin\Debug\BuyAndSell.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\bin\Debug\BuyAndSell.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.csproj.AssemblyReference.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.csproj.CoreCompileInputs.cache
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.exe
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.pdb
+C:\Users\cauaz\OneDrive\Área de Trabalho\LeetCode\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.exe.config

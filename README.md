@@ -9,7 +9,7 @@ Aprimorar habilidades em:
 - Lógica de programação
 - Estruturas de dados
 - Resolução de problemas
-- Otimização de algoritmos
+- Otimização de algoritmos  
 
 ---
 
